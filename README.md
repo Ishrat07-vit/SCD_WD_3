@@ -1,0 +1,1 @@
+An interactive Tic-Tac-Toe game created using HTML, CSS, and JavaScript. The application allows two players to play the game with proper win condition checking and dynamic UI updates, showcasing basic game logic and DOM manipulation.
